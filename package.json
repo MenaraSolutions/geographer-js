@@ -1,0 +1,22 @@
+{
+  "name": "geographer",
+  "version": "0.1.0",
+  "description": "Official Geographer JavaScript package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenaraSolutions/geographer-js.git"
+  },
+  "keywords": [
+    "geolocation",
+    "geography",
+    "subdivisions",
+    "fips",
+    "iso"
+  ],
+  "author": "Denis Mysenko <denis@menara.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MenaraSolutions/geographer-js/issues"
+  },
+  "homepage": "https://github.com/MenaraSolutions/geographer-js#readme"
+}
