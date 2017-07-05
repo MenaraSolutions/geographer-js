@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MenaraSolutions/geographer-js/issues"
   },
-  "homepage": "https://github.com/MenaraSolutions/geographer-js#readme"
+  "homepage": "https://github.com/MenaraSolutions/geographer-js#readme",
+  "dependencies": {
+    "geographer-data": "^0.1.6"
+  }
 }
