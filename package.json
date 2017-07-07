@@ -16,6 +16,7 @@
     "fips",
     "iso"
   ],
+  "main": "lib/index.js",
   "author": "Denis Mysenko <denis@menara.com.au>",
   "license": "MIT",
   "bugs": {
