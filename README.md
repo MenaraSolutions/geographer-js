@@ -4,3 +4,11 @@ Official Geographer JavaScript package - information about all world countries a
 ## Overview
 
 TBC
+
+## Installation
+
+```bash
+$ npm install geographer-js --save
+```
+
+## API
