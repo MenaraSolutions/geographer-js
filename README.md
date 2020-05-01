@@ -39,7 +39,7 @@ const states = thailand.getStates().setLocale('ru').inflict('in')
 
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
 const capital = thailand.getCapital()
-capital.GeonamesCode()
+capital.geonamesCode()
 capital.getLatitude()
 capital.getLongitude()
 ```
