@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/MenaraSolutions/geographer-js#readme",
   "dependencies": {
-    "geographer-data": "^0.1.6"
+    "geographer-data": "~0.1.6"
   },
   "devDependencies": {
     "jest": "^20.0.4"
