@@ -1,6 +1,6 @@
 {
   "name": "geographer-js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Official Geographer JavaScript package",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/MenaraSolutions/geographer-js#readme",
   "dependencies": {
-    "geographer-data": "~0.1.6"
+    "geographer-data": "^0.1.10"
   },
   "devDependencies": {
     "jest": "^20.0.4"
